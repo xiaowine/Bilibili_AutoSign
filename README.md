@@ -14,5 +14,5 @@
 
 ### 下载
 
-前往[Releases](https://github.com/xiaowine/Bilibili_AutoSign/releases "")下载bilibili.exe，双击运行即可
+前往[Releases](https://github.com/xiaowine/Bilibili_AutoSign/releases "")下载bilibili.zip，解压并双击运行 bilibili.exe 即可
 
